@@ -58,7 +58,7 @@
         />
         <router-view style="width: 80%; margin: 0 auto" />
         <div class="foot">
-          <span style="font-family: Tahoma;color: #f3f3f3;font-size: 14px;line-height: 47px;">版权所有: 中稹融创 电话: 028-85237573 邮箱: zzrc_group@163.com 地址: 四川省成都市高新区天府四街158号易上OCG国际中心C座6层</span>
+          <span style="font-family: Tahoma;color: #f3f3f3;font-size: 14px;line-height: 47px;">版权所有: 中稹融创 电话: 028-85237573 邮箱: zzrc_group@163.com 地址: 四川省成都市高新区楚峰国际中心 2903</span>
         </div>
         <div class="foot2">
           <el-link type="info" :underline="false" href="https://beian.miit.gov.cn/#/Integrated/index">蜀ICP备2020028211号-1</el-link>
